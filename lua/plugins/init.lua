@@ -43,7 +43,8 @@ return {
         "rust-analyzer",
         "clangd",
         "zls",
-        "ruff-lsp"
+        "ruff-lsp",
+        "isort"
       }
     }
   },
